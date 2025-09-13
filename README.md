@@ -3,4 +3,5 @@
 
 В ходе выполнения практического задания был создан макет мобильного приложения в Figma.
 * Ссылка на макет в Figma:
+
 https://www.figma.com/design/9D4BMqWTVxZSXCuNXmbeyC/Prototype_Mockup?node-id=0-1
